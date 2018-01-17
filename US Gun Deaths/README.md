@@ -1,1 +1,8 @@
-Describe what lessons I am putting into practice
+Python Basics:
+ - Loops
+ - Conditional logic
+ - Functions
+ - List comprehensions
+ - Modules
+ - Classes
+ - Regular expressions
