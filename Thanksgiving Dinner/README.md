@@ -1,1 +1,4 @@
-Describe what lessons I am putting into practice
+Data Analysis with Pandas
+ - NumPy library
+ - Pandas library
+ - Data manipulation
